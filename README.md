@@ -74,3 +74,27 @@ how to remove all tags at once using azure cli ?
 
 <img width="638" height="217" alt="image" src="https://github.com/user-attachments/assets/c86e6fe5-3fc1-4a5c-b442-c3b3a8c42f3e" />
 
+
+------------------------------------------------------------------------------------------------------------------
+
+Lab how to create New user azure portal
+go to microoft azure then go to users and create a user 
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+Lab How to create groups in azure ?
+<img width="551" height="280" alt="image" src="https://github.com/user-attachments/assets/6a6b5247-5fd9-49f5-a46d-9cbefbd6666f" />
+
+
+<img width="498" height="227" alt="image" src="https://github.com/user-attachments/assets/0d58374f-f609-430f-80df-3c0060506ce7" />
+
+
+<img width="521" height="248" alt="image" src="https://github.com/user-attachments/assets/1570dea0-c49e-4e6f-b4d3-3d579a437106" />
+
+
+
+<img width="511" height="223" alt="image" src="https://github.com/user-attachments/assets/b3057e9e-9ab4-474f-849c-85af807fc4a9" />
+
+<img width="506" height="289" alt="image" src="https://github.com/user-attachments/assets/f0305991-2848-4147-9fe3-b8c712fd3236" />
+
